@@ -6,10 +6,10 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'CHÚC MỪNG', 'LÊN XE BÔNG:))'],
+			strings: [ 'CHÚC MỪNG','BẠN CHU THỊ PHƯƠNG THẢO', 'LÊN XE BÔNG:))'],
 			charSize: 30,
 			charSpacing: 35,
-			lineHeight: 40,
+			lineHeight: 60,
 			
 			cx: w / 2,
 			cy: h / 2,
