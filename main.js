@@ -9,7 +9,7 @@ var w = c.width = window.innerWidth,
 			strings: [ 'CHÚC MỪNG','BẠN CHU THỊ PHƯƠNG THẢO', 'LÊN XE BÔNG:))'],
 			charSize: 10,
 			charSpacing: 10,
-			lineHeight: 15,
+			lineHeight: 10,
 			
 			cx: w / 2,
 			cy: h / 2,
